@@ -1200,7 +1200,7 @@
 		.goto-next {
 			@include vendor('transition', 'background-color #{_duration(transition)} ease-in-out');
 			background-color: _palette(border-bg);
-			background-image: url('images/arrow.svg');
+			background-image: url('images/pic01.png');
 			background-position: center center;
 			background-repeat: no-repeat;
 			border-radius: 100%;
